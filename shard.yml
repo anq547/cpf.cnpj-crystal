@@ -1,0 +1,13 @@
+name: cpf_cnpj-crystal
+version: 0.1.0
+
+authors:
+  - anq547 <htt547@posteo.net>
+
+targets:
+  cpf_cnpj-crystal:
+    main: src/cpf_cnpj-crystal.cr
+
+crystal: 1.4.0
+
+license: MIT
